@@ -22,7 +22,3 @@ func main() {
 
 	fmt.Println(sum)
 }
-
-func fib(i int, n int) {
-
-}
